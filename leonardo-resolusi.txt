@@ -2,3 +2,4 @@ Leonardo Resolusi
 - Konsistensia hodi aprende Laravel 3x kada semana
 - Kria grupu laravel timor leste hodi desenvolve laravel
 - Bele komprende no hatene lalaok husi laravel hodi ajuda hau halo projetu ruma ka hau nia teze
+- Iha futuru hau hakarak halo website ba hau nia igreja uza framework php laravel
